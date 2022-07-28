@@ -13,4 +13,4 @@ hello atitchaoming! hello git!
 hello atitchaoming! hello git!
 hello atitchaoming! hello git!
 hello atitchaoming! hello git!master
-hello atitchaoming! hello git!
+hello atitchaoming! hello git!hot-fix test
